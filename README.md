@@ -7,35 +7,35 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 ## 🚀 **Technologies & Skills**
 
 ### 🔧 **Programming Languages**  
-- Java 🟨
-- C++ 🟩
-- SQL 🟦
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### ⚙️ **Back-End Technologies**  
-- Spring Boot 🌱
-- Hibernate 🟪
-- Spring Framework 🌿
-- JDBC 🔌
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Hibernate](https://img.shields.io/badge/Hibernate-4E8D7C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![JDBC](https://img.shields.io/badge/JDBC-000000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/jdbc.html)
 
 ### 🗄️ **Databases**  
-- MySQL 🐬
-- NoSQL (MongoDB, etc.) 🌐
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### 🌍 **Version Control**  
-- Git 🐙  
-- GitHub 📁
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ### 📚 **Core Subjects**  
-- Data Structures & Algorithms 📊  
-- Operating Systems 🖥️  
-- Networking 🌐  
-- Databases 💾
+[![Data Structures](https://img.shields.io/badge/Data%20Structures-009C91?style=for-the-badge&logo=python&logoColor=white)](https://www.geeksforgeeks.org/data-structures/)
+[![Algorithms](https://img.shields.io/badge/Algorithms-009C91?style=for-the-badge&logo=python&logoColor=white)](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+[![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4e73a3?style=for-the-badge&logo=linux&logoColor=white)](https://www.geeksforgeeks.org/operating-systems/)
+[![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
 ### 💡 **Miscellaneous Skills**  
-- Multithreading 🧵  
-- Design Patterns 🧩  
-- Microservices 🖧  
-- Agile Development 🏃‍♂️
+[![Multithreading](https://img.shields.io/badge/Multithreading-2f4f4f?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
+[![Design Patterns](https://img.shields.io/badge/Design%20Patterns-3e3e3e?style=for-the-badge&logo=python&logoColor=white)](https://refactoring.guru/design-patterns)
+[![Microservices](https://img.shields.io/badge/Microservices-0366d6?style=for-the-badge&logo=docker&logoColor=white)](https://www.nginx.com/learn/microservices/)
+[![Agile](https://img.shields.io/badge/Agile-009C91?style=for-the-badge&logo=jira&logoColor=white)](https://www.agilealliance.org/agile101/)
 
 ---
 
