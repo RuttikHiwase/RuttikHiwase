@@ -1,6 +1,6 @@
-# 👨‍💻 **Software Engineer** | Full Stack Developer
+# 👨‍💻 **Backend Developer** | Software Engineer
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a strong foundation in **problem-solving**, **data structures & algorithms**, and **full-stack development**. I enjoy building robust, scalable applications and have experience working with a variety of technologies.
+Welcome to my GitHub profile! I am a passionate **Backend Developer** with expertise in designing and implementing efficient, scalable, and high-performance backend systems. My experience spans working with Java, Spring Boot, databases, and microservices architecture.
 
 ---
 
@@ -42,28 +42,14 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 ## 📈 **Repositories**  
 Here are some of my notable repositories that showcase my work and contributions:
 
-### 🛠️ **Projects**
 - [**Spring Boot CRUD Application**](https://github.com/your-profile/spring-boot-crud-app)  
   A simple **Spring Boot** application for CRUD operations with a **MySQL** database.
-  
+
 - [**E-commerce Microservices**](https://github.com/your-profile/ecommerce-microservices)  
   A **microservices architecture** to handle **e-commerce** operations, including user management and product management.
 
 - [**LeetCode Solutions**](https://github.com/your-profile/leetcode-solutions)  
   A repository containing solutions to **LeetCode** problems, organized by topic and difficulty.
-
-- [**Weather App**](https://github.com/your-profile/weather-app)  
-  A simple **JavaScript** and **React** based weather forecasting app using **OpenWeather API**.
-
-- [**Personal Portfolio**](https://github.com/your-profile/personal-portfolio)  
-  A **static portfolio website** built with **HTML**, **CSS**, and **JavaScript**.
-
-### 🔥 **Contributions**
-- [**Spring Framework**](https://github.com/spring-projects/spring-framework)  
-  Contributed to various **Spring Framework** modules, specifically around **JDBC** and **Spring Boot** configuration.
-
-- [**Open Source Contributions**](https://github.com/your-profile/open-source-contributions)  
-  A collection of my contributions to various **open-source** projects, from bug fixes to new feature development.
 
 ---
 
@@ -81,4 +67,4 @@ If you're interested in collaborating, feel free to reach out via LinkedIn or em
 ---
 
 ### 🎯 **Goal**  
-My goal is to work on innovative projects, contribute to meaningful solutions, and continuously enhance my skills in software engineering. I aspire to be a part of a talented and driven team that creates impactful software.
+My goal is to work on innovative projects, contribute to meaningful solutions, and continuously enhance my skills in backend development. I aspire to be a part of a talented and driven team that creates impactful software.
