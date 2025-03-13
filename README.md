@@ -96,4 +96,3 @@ Feel free to reach out to me for collaborations, inquiries, or further discussio
 - Update the LinkedIn and Email sections with your actual links.
 
 This should serve as a solid foundation for your README file. Let me know if you'd like further customization!
-
